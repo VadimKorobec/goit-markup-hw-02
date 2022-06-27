@@ -1,1 +1,73 @@
-/*
+/* цвет основного текста #212121 */
+/* вторичный цвет #757575 */
+/* шапка #FFFFFF */
+/* почта и тел под rgba(255, 255, 255, 0.6)*/
+/* фдрес подвала #FFFFFF  */
+/* секция наша команда #F5F4FA */
+/* секция чем мы занисаемся #E5E5E5 */
+/* секция герой #2F303A */
+/* цвет кнопки #2196F3 */
+/* шапка hover #188CE8 */
+/* body #E5E5E5 */
+
+body {
+  background-color: #e5e5e5;
+  color: #757575;
+}
+
+/* header */
+
+.header {
+  background-color: #ffffff;
+}
+
+/* logo */
+
+.logo {
+  color: #2196f3;
+}
+
+.logo-inner {
+  color: #000000;
+}
+
+/* nav-link */
+
+.nav-link {
+  color: #212121;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #2196f3;
+}
+
+.nav-item {
+  list-style: none;
+}
+
+/* header list */
+
+.header-list {
+  list-style: none;
+}
+
+/* header mailto */
+
+.header-mailto {
+  color: #757575;
+}
+
+.header-mailto:hover {
+  color: #2196f3;
+}
+
+/* header phone */
+
+.header-phone {
+  color: #757575;
+}
+
+.header-phone:hover {
+  color: #2196f3;
+}
