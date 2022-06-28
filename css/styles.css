@@ -44,6 +44,10 @@ body {
   color: #2196f3;
 }
 
+.nav-list .nav-link:active {
+  color: #2196f3;
+}
+
 .nav-item {
   list-style: none;
 }
@@ -84,6 +88,22 @@ body {
 
 .hero-title {
   color: #ffffff;
+}
+
+/* button hero */
+
+.button-hero {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+
+.button-hero:hover,
+.button-hero:focus {
+  color: #188ce8;
+}
+
+.button-hero {
+  cursor: pointer;
 }
 
 /* offer section */
@@ -158,4 +178,45 @@ body {
 .footer-phone:hover,
 .footer-phone:focus {
   color: #2196f3;
+}
+
+.footer-logo {
+  color: #2196f3;
+}
+
+.footer-logo-inner {
+  color: #ffffff;
+}
+
+.footer-item {
+  list-style: none;
+}
+
+/* Portfolio section */
+
+.portfolio {
+  background-color: #ffffff;
+}
+
+.button-item {
+  list-style: none;
+}
+
+.button-portfolio {
+  background-color: #f5f4fa;
+  color: #212121;
+}
+
+.button-portfolio:hover,
+.button-portfolio:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+
+.portfolio-item {
+  list-style: none;
+}
+
+.porteolio-titel {
+  color: #212121;
 }
