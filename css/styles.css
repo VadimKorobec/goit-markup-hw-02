@@ -162,8 +162,17 @@ body {
 
 .offer-title {
   color: #212121;
+
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  text-transform: uppercase;
 }
 
+.offer-text {
+  font-size: 14px;
+  line-height: 1.71;
+}
 /* doing section */
 
 .doing {
@@ -176,6 +185,11 @@ body {
 
 .doing-title {
   color: #212121;
+
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
 }
 
 /* team section */
@@ -190,10 +204,19 @@ body {
 
 .team-titel {
   color: #212121;
+
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
 }
 
 .team-subtitel {
   color: #212121;
+
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18;
 }
 
 /* footer section */
