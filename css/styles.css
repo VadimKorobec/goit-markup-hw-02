@@ -219,6 +219,11 @@ body {
   line-height: 1.18;
 }
 
+.team-text {
+  font-size: 16px;
+  line-height: 1.18;
+}
+
 /* footer section */
 
 .footer {
@@ -227,11 +232,17 @@ body {
 
 .address {
   color: #ffffff;
+
+  font-size: 14px;
+  line-height: 1.71;
 }
 
 .footer-mailto {
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
+
+  font-size: 14px;
+  line-height: 1.71;
 }
 
 .footer-mailto:hover,
@@ -242,6 +253,9 @@ body {
 .footer-phone {
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
+
+  font-size: 14px;
+  line-height: 1.71;
 }
 
 .footer-phone:hover,
@@ -280,6 +294,12 @@ body {
   background-color: #f5f4fa;
   color: #212121;
   border: none;
+  font-family: inherit;
+
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
 }
 
 .button-portfolio:hover,
@@ -296,6 +316,11 @@ body {
   list-style: none;
 }
 
-.porteolio-titel {
+.portfolio-titel {
   color: #212121;
+
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
 }
