@@ -273,6 +273,7 @@ body {
   color: #212121;
   border: none;
   font-family: inherit;
+  cursor: pointer;
 
   font-weight: 500;
   font-size: 16px;
@@ -283,10 +284,6 @@ body {
 .button-portfolio:focus {
   background-color: #2196f3;
   color: #ffffff;
-}
-
-.button-portfolio {
-  cursor: pointer;
 }
 
 .portfolio-item {
