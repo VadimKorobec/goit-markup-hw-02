@@ -132,7 +132,6 @@ body {
   text-align: center;
   letter-spacing: 0.06em;
 }
-/* #188ce8 ? */
 
 .button-hero:hover,
 .button-hero:focus {
@@ -145,10 +144,6 @@ body {
 }
 
 /* offer section */
-
-.offer {
-  background-color: #ffffff;
-}
 
 .offer-list {
   list-style: none;
