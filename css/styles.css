@@ -11,7 +11,7 @@
 /* body #E5E5E5 */
 
 body {
-  background-color: #e5e5e5;
+  background-color: #ffffff;
   color: #757575;
   font-family: Roboto, sans-serif;
   letter-spacing: 0.03em;
@@ -48,7 +48,7 @@ body {
 
   font-weight: 500;
   font-size: 14px;
-  line-height: 1, 14;
+  line-height: 1.14;
   letter-spacing: 0.02em;
 }
 
