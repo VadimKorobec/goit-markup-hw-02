@@ -278,6 +278,10 @@ body {
   line-height: 1.62;
 }
 
+.button-portfolio.current {
+  background-color: #2196f3;
+}
+
 .button-portfolio:hover,
 .button-portfolio:focus {
   background-color: #2196f3;
