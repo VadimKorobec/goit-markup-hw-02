@@ -132,7 +132,9 @@ body {
 
 .button-hero:hover,
 .button-hero:focus {
-  color: #2196f3;
+  background-color: #188ce8;
+  color: #ffffff;
+
   border: none;
 }
 
